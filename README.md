@@ -1,4 +1,4 @@
-# CRG-STL: Signal Temporal Logic for Robotic Manipulation
+# RL-STL: Signal Temporal Logic for Robotic Manipulation
 
 This repository contains the implementation for a thesis project focused on using Signal Temporal Logic (STL) to guide and verify robotic manipulation tasks. It features a Safe Funnel Controller based on Potential Fields and a Reinforcement Learning (RL) pipeline using Soft Actor-Critic (SAC) with Behavior Cloning.
 
